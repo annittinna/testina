@@ -1,0 +1,2 @@
+select dates and city to travel
+click find button
