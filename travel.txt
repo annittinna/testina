@@ -5,5 +5,3 @@ select one hotel and click book button
 
 add tourist data
 click book
-
-one more time for revert
